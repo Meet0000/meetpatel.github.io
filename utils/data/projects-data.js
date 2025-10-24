@@ -4,6 +4,23 @@ import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
 
 export const projectsData = [
+        {
+        id: 1,
+        name: "IT Infrastructure Automation and Endpoint Security Deployment",
+        description: "Implemented and managed NinjaRMM across 400+ devices within 2 months, deploying ThreatLocker and Sentinel One for endpoint protection; Created onboarding pen drive and policy to make fully automated process; created and optimized policies to efficiently manage VMware environments, servers, and storage systems.",
+        tools: ["NinjaRmm", "ThreatLocker", "Bitlocker", "SentinialOne", "MDM"],
+        instructor: "Faraz Mahadvi",
+        image: "IT Infrastructure Automation and Endpoint Security Deployment"
+    },
+        {
+        id: 2,
+        name: "Security Assessment Project",
+        description: "Collaborated with the Senior System Administrator to improve the company’s Microsoft Secure Score from 45 to 78 within four months and completed a comprehensive security inspection and compliance audit.",
+        role: "Member",
+        code: "",
+        demo: "",
+        image: "Security Assessment Project"
+    },
     {
         id: 3,
         name: "Grocery Mart Website",
@@ -15,23 +32,6 @@ export const projectsData = [
         code: "https://github.com/shivmistry223/groceriesMart",
         demo: "https://shivmistry223.github.io/groceriesMart/index.html",
         image: "grocery-mart"
-    },
-    {
-        id: 2,
-        name: "Security Assessment Project",
-        description: "Collaborated with the Senior System Administrator to improve the company’s Microsoft Secure Score from 45 to 78 within four months and completed a comprehensive security inspection and compliance audit.",
-        role: "Member",
-        code: "",
-        demo: "",
-        image: "Security Assessment Project"
-    },
-    {
-        id: 1,
-        name: "IT Infrastructure Automation and Endpoint Security Deployment",
-        description: "Implemented and managed NinjaRMM across 400+ devices within 2 months, deploying ThreatLocker and Sentinel One for endpoint protection; Created onboarding pen drive and policy to make fully automated process; created and optimized policies to efficiently manage VMware environments, servers, and storage systems.",
-        tools: ["NinjaRmm", "ThreatLocker", "Bitlocker", "SentinialOne", "MDM"],
-        instructor: "Faraz Mahadvi",
-        image: "IT Infrastructure Automation and Endpoint Security Deployment"
     },
     {
         id: 4,
