@@ -1,21 +1,20 @@
 export const skillsData = [
-  'HTML',
-  'CSS',
+  'Hardware/software diagnostics',
+  'network issue resolution',
   'python',
   'Javascript',
-  'java',
-  'Typescript',
+  'Expert in PowerShell script',
+  'Active directory',
   'React',
-  'Next JS',
-  'Tailwind',
+  'Dynamics 365',
+  'Technical documentation',
   'oracle',
   'MongoDB',
   'MySQL',
-  'numpy',
+  'Agile/Waterfall methods',
   'Git',
   'Bootstrap',
   'Figma',
   'photoshop',
   'wordpress'
 ]
-
