@@ -5,7 +5,7 @@ import travel from '/public/image/travel.jpg';
 
 export const projectsData = [
     {
-        id: 1,
+        id: 3,
         name: "Grocery Mart Website",
         description: "The Grocery Mart Website project was developed as part of the 'Front End Web Development II' course at Lambton College-Mississauga. The project aims to provide users with a seamless online grocery shopping experience. It includes features like an immersive main page with carousel effects showcasing store promotions, a product details page, shopping cart functionality, and an order history page with automatic deletion of old orders. The website is fully responsive, ensuring a consistent experience across devices.",
         tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "Photoshop", "Visual Studio", "GitHub", "Google Chrome"],
@@ -18,25 +18,20 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: "To-Do List",
-        description: "This project involves developing a user-friendly website that allows users to manage their tasks efficiently. It includes features such as creating, reading, updating, and deleting (CRUD) tasks, marking tasks as completed, organizing tasks into categories, and maintaining the list even after the user revisits the site. The project is implemented using Java for backend development, MySQL for database management, and HTML, CSS, JavaScript for the frontend. Additional frameworks like Spring Boot, JSP, and Bootstrap are used to enhance the functionality and design.",
-        tools: ["Java", "MySQL", "Spring Boot", "JSP", "HTML", "CSS", "JavaScript", "Bootstrap"],
-        role: "Full-Stack Developer",
+        name: "Security Assessment Project",
+        description: "Collaborated with the Senior System Administrator to improve the company’s Microsoft Secure Score from 45 to 78 within four months and completed a comprehensive security inspection and compliance audit.",
+        role: "Member",
         code: "",
         demo: "",
-        image: "todo-list"
+        image: "Security Assessment Project"
     },
     {
-        id: 3,
-        name: "Create My Sign App",
-        description: "The Create My Sign application is designed to allow users to create and manage digital signs and signatures through a user-friendly interface. It features customizable text input, a color picker, a drawing canvas, and the ability to save and download personalized signs. Users can create accounts, log in, and store their signs in a MongoDB database. The application is built using Python with Tkinter for the GUI and MongoDB for database management.",
-        tools: ["Python", "Tkinter", "PIL", "pymongo", "MongoDB"],
-        role: "Lead Developer",
-        "team_members": ["Jaivik Patel", "Meet Patel", "Piyushkumar Vaghasiya", "Varshil Suhagiya", "Anikeat Thakur"],
-        instructor: "Mr. Darcy Gratton",
-        code: "https://github.com/meet000/CreateMySignApp",
-        demo: "",
-        image: "create-my-sign"
+        id: 1,
+        name: "IT Infrastructure Automation and Endpoint Security Deployment",
+        description: "Implemented and managed NinjaRMM across 400+ devices within 2 months, deploying ThreatLocker and Sentinel One for endpoint protection; Created onboarding pen drive and policy to make fully automated process; created and optimized policies to efficiently manage VMware environments, servers, and storage systems.",
+        tools: ["NinjaRmm", "ThreatLocker", "Bitlocker", "SentinialOne", "MDM"],
+        instructor: "Faraz Mahadvi",
+        image: "IT Infrastructure Automation and Endpoint Security Deployment"
     },
     {
         id: 4,
