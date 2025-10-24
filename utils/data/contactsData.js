@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'meetpately@gmail.com',
+    email: 'patelmeetkadi@gmail.com',
     phone: '+1(437)-766-3098',
     address: '56 Gower Cres,Brampton,L6R0Y1,Canada ',
     github: 'https://github.com/Meet0000',
