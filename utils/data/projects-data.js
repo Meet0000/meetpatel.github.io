@@ -6,7 +6,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
         {
         id: 1,
-        name: "IT Infrastructure Automation and Endpoint Security Deployment",
+        name: "IT Infrastructure Automation & Endpoint Security Deployment",
         description: "Implemented and managed NinjaRMM across 400+ devices within 2 months, deploying ThreatLocker and Sentinel One for endpoint protection; Created onboarding pen drive and policy to make fully automated process; created and optimized policies to efficiently manage VMware environments, servers, and storage systems.",
         tools: ["NinjaRmm", "ThreatLocker", "Bitlocker", "SentinialOne", "MDM"],
         team_members: ["Jaivik Patel", "Meet Patel", "Shiv Mistry", "Mit Kotak"],
