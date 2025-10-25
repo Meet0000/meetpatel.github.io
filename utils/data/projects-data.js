@@ -15,7 +15,7 @@ export const projectsData = [
         code: "",
         demo: ""
     },
-        {
+    {
         id: 2,
         name: "Security Assessment Project",
         description: "Collaborated with the Senior System Administrator to improve the company’s Microsoft Secure Score from 45 to 78 within four months and completed a comprehensive security inspection and compliance audit.",
