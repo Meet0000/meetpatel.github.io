@@ -9,14 +9,19 @@ export const projectsData = [
         name: "IT Infrastructure Automation and Endpoint Security Deployment",
         description: "Implemented and managed NinjaRMM across 400+ devices within 2 months, deploying ThreatLocker and Sentinel One for endpoint protection; Created onboarding pen drive and policy to make fully automated process; created and optimized policies to efficiently manage VMware environments, servers, and storage systems.",
         tools: ["NinjaRmm", "ThreatLocker", "Bitlocker", "SentinialOne", "MDM"],
+        team_members: ["Jaivik Patel", "Meet Patel", "Shiv Mistry", "Mit Kotak"],
         instructor: "Faraz Mahadvi",
-        image: "IT Infrastructure Automation and Endpoint Security Deployment"
+        role: "Member",
+        code: "",
+        demo: ""
     },
         {
         id: 2,
         name: "Security Assessment Project",
         description: "Collaborated with the Senior System Administrator to improve the company’s Microsoft Secure Score from 45 to 78 within four months and completed a comprehensive security inspection and compliance audit.",
+        tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "Photoshop", "Visual Studio", "GitHub", "Google Chrome"],
         role: "Member",
+        team_members: ["Jaivik Patel", "Meet Patel", "Shiv Mistry", "Mit Kotak"],
         code: "",
         demo: "",
         image: "Security Assessment Project"
